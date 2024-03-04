@@ -1,0 +1,22 @@
+<project name="software_renderer" default="jar">
+    <property name="src" location="src" />
+    <property name="build" location="build" />
+    <property name="dist" location="dist" />
+
+    <target name="clean">
+        <delete dir="${build}" />
+        <delete dir="${dist}" />
+    </target>
+
+    <target name="compile" depends="clean">
+        <mkdir dir="${build}" />
+        <javac srcdir="${src}" destdir="${build}" />
+    </target>
+
+    <target name="jar" depends="compile">
+        <mkdir dir="${dist}" />
+        <jar destfile="${dist}/software_renderer.jar"
+             basedir="${build}"
+             manifest="MANIFEST.MF" />
+    </target>
+</project>

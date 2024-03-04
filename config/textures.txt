@@ -1,0 +1,10 @@
+assets/textures.pak
+
+checkerboard package/textures/checkerboard.bmp
+ronin package/textures/ronin.bmp
+african_head package/textures/african_head.bmp
+diablo package/textures/diablo.bmp
+headscan package/textures/headscan.bmp
+aod package/textures/aod.bmp
+cyberpunk_car package/textures/cyberpunk_car.bmp
+alien package/textures/alien.bmp

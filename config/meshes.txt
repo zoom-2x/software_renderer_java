@@ -1,0 +1,16 @@
+assets/meshes.pak
+
+triangle package/meshes/triangle.obj
+triangle_color package/meshes/triangle_color.obj
+plane package/meshes/plane.obj
+plane_color package/meshes/plane_color.obj
+cube package/meshes/cube.obj
+torus_knot package/meshes/torus_knot.obj
+blob package/meshes/blob.obj
+teapot package/meshes/teapot.obj
+monkey package/meshes/monkey.obj
+african_head package/meshes/african_head.obj
+headscan package/meshes/headscan.obj
+diablo package/meshes/diablo.obj
+alien package/meshes/alien.obj
+cyberpunk_car package/meshes/cyberpunk_car.obj
