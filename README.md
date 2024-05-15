@@ -1,5 +1,7 @@
 # Software Renderer / Java
 
+![Software Renderer / Java](images/readme.jpg)
+
 Method: scanline rasterizer / gouraud shading.
 
 Edit **run.bat** to set your **JAVA_PATH**. Execute **run.bat** and type **"load 11"**
